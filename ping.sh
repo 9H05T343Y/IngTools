@@ -103,4 +103,5 @@ echo "Inna !!!, 🤗"|lolcat
 echo $green "Putus aken sih Alife!"|lolcat
 echo $red "Heheheheh😂"|lolcat
 echo "Ndah Kro kite😂"|lolcat
+cd && cd PingTools && sh ping.sh
 fi
