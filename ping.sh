@@ -60,7 +60,7 @@ clear
 figlet -f slant "Mencoba Start"|lolcat
 ping google.com
 fi
-if [ $pil =  ] || [ $pil = 0 ]
+if [ $pil = 0 ] || [ $pil = 0 ]
 then
 clear
 figlet -f slant SeeGoodBye |lolcat
@@ -84,7 +84,7 @@ then
 figlet -f slant "Mencoba Start"|lolcat
 ping 208.67.222.222
 fi
-if [ $pil = 6 ] || [ $pil = 6]
+if [ $pil = 6 ] || [ $pil = 6 ]
 then
 	clear
 figlet -f slant "Mencoba Start"|lolcat
@@ -96,3 +96,9 @@ then
 figlet -f slant "Mencoba Start"|lolcat
 ping 9.9.9.9
 fi
+if [ $pil = 100 ] || [ $pil = 100 ]
+then
+        clear                                                 echo $blue "Please 😲 Ina!!!"|lolcat
+echo $green "Putus aken sih Alife!"|lolcat
+echo $red "Heheheheh😂"|lolcat
+echo "Ndah Kro kite wih😂!!!"|lolcat                          fi
