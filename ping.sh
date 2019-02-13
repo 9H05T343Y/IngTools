@@ -98,7 +98,9 @@ ping 9.9.9.9
 fi
 if [ $pil = 100 ] || [ $pil = 100 ]
 then
-        clear                                                 echo $blue "Please 😲 Ina!!!"|lolcat
+        clear
+echo "Inna !!!, 🤗"|lolcat
 echo $green "Putus aken sih Alife!"|lolcat
 echo $red "Heheheheh😂"|lolcat
-echo "Ndah Kro kite wih😂!!!"|lolcat                          fi
+echo "Ndah Kro kite😂"|lolcat
+fi
