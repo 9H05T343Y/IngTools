@@ -33,7 +33,7 @@ cmatrix
 sleep 1
 exit
 }
-cd konjong && python text.py
+cd && cd PingTools && cd kojong && python text.py
 
 echo      -e "___________________________________________" | lolcat
 echo      -e " Silahkan pilih Ping yang akan di gunakan! " | lolcat
